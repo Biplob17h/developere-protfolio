@@ -8,9 +8,13 @@ h1{
 section{
     display: flex;
 }
-.half width{
+.width {
     width: 50%;
-    half width img{
-        width: 100%;
-    }
+    padding: 5%;
+}
+.width img {
+      width: 120%;
+}
+section{
+    margin-left: 10%;
 }
