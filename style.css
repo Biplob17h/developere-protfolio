@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -7,6 +8,7 @@ h1{
 .bat{ color: orange;}
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .width {
     width: 50%;
@@ -24,5 +26,15 @@ padding: 10px 20px;
 background-image: linear-gradient(darkgreen  , rgb(15, 235, 15) );
 color: wheat;
 font-weight: 700;
+border-radius: 10px;
 
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream-big {
+    background-image: url( images/dream-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: right;
 }
