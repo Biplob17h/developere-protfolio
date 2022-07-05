@@ -18,3 +18,11 @@ section{
 section{
     margin-left: 10%;
 }
+.link {
+ text-decoration: none; 
+padding: 10px 20px;
+background-image: linear-gradient(darkgreen  , rgb(15, 235, 15) );
+color: wheat;
+font-weight: 700;
+
+}
