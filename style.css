@@ -38,3 +38,29 @@ border-radius: 10px;
     background-repeat: no-repeat;
     background-position: right;
 }
+.orange-color{
+
+    color: orange;
+}
+.shadow {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    border-radius: 5px;
+}
+.Experiences{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full {
+    border-left: 7px solid orange ;
+}
+.baby {
+    border-left: 7px solid blue;
+}
+footer{
+    text-align: center;
+}
